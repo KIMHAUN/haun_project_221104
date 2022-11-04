@@ -1,4 +1,4 @@
-package com.shinsunyoung.springbootcrud.repository;
+package com.shinsunyoung.springbootcrud.model;
 
 import com.shinsunyoung.springbootcrud.model.Person;
 import org.springframework.data.jpa.repository.JpaRepository;

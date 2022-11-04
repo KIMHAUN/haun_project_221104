@@ -1,7 +1,7 @@
 package com.shinsunyoung.springbootcrud.service;
 
 import com.shinsunyoung.springbootcrud.model.Person;
-import com.shinsunyoung.springbootcrud.repository.PersonRepository;
+import com.shinsunyoung.springbootcrud.model.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
